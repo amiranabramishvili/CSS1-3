@@ -1,0 +1,136 @@
+#title {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 53px;
+    width: 704px;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+#paragraph {
+    color: #FF8000;
+    text-align: center;
+    width: 900px;
+    height: 64px;
+    font-size: 20px;
+    margin: 0 auto;
+    font-weight: 700;
+
+}
+
+#dog {
+    margin-left: 67px;
+    color: #D9AE00;
+    font-size: 40px;
+    width: 681px;
+    height: 48px;
+    margin-bottom: 24px;
+
+}
+
+#text {
+    margin-left: 67px;
+    color: #6D81B4;
+    width: 620px;
+    font-size: 24px;
+    font-weight: 400;
+    height: 145px;
+    text-align: left;
+    margin-bottom: 30px;
+
+}
+
+#space {
+    margin-left: 67px;
+
+}
+
+#BlackDiv {
+    width: 1000px;
+    height: 700px;
+    border: 2px solid #000;
+    background: #FFCEBE;
+    margin-left: 67px;
+    margin-top: 45px;
+
+}
+
+#cat {
+    color: #F44E50;
+    font-weight: 900;
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 64px;
+
+}
+
+#textt {
+    color: #8B2B2C;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 24px;
+    font-size: 20px;
+    width: 681px;
+    height: 72px;
+}
+
+#sun {
+    margin-left: 67px;
+    margin-top: 30px;
+}
+
+#string {
+    width: 548px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #4716E4;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+#divv {
+    height: 200px;
+    width: 650px;
+    background: #FFC1E3;
+    border: 3px solid #FF5DA3;
+    margin-left: 67px;
+    margin-bottom: 30px;
+
+}
+
+#is {
+    margin: 24px;
+    color: #616161;
+    font-size: 24px;
+    text-align: right;
+    
+}
+
+#about {
+    color: #414651;
+    font-size: 24px;
+    font-weight: 800;
+    margin-left: 67px;
+    margin-bottom: 16px;
+}
+
+#g {
+    margin-left: 67;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#lastt {
+    width: 600px;
+    height: 200px;
+    margin-left: 67px;
+    color: #C27512;
+    margin-bottom: 30px;
+}
+
+#earth {
+    margin-left: 67px;
+}
